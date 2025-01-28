@@ -66,3 +66,4 @@ The project will result in a fully functional, intuitive, and immersive UI that 
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/1e8ce35c-8b52-428a-9741-43e0153499fa)
